@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/noobdev777/test",
+    "repository": "https://github.com/noobdev777/testedit",
     "success_url": "https://t.me/+rTCMO-iLBWEzZDU5",
     "stack": "container",
     "env": {
